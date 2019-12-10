@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/semos-react-h3/static/js/main.40371c44.chunk.js",
+    "main.js.map": "/semos-react-h3/static/js/main.40371c44.chunk.js.map",
+    "runtime-main.js": "/semos-react-h3/static/js/runtime-main.3b737564.js",
+    "runtime-main.js.map": "/semos-react-h3/static/js/runtime-main.3b737564.js.map",
+    "static/js/2.0455bcb9.chunk.js": "/semos-react-h3/static/js/2.0455bcb9.chunk.js",
+    "static/js/2.0455bcb9.chunk.js.map": "/semos-react-h3/static/js/2.0455bcb9.chunk.js.map",
+    "index.html": "/semos-react-h3/index.html",
+    "precache-manifest.c0dac63392237ef7713e3e34cbe70a33.js": "/semos-react-h3/precache-manifest.c0dac63392237ef7713e3e34cbe70a33.js",
+    "service-worker.js": "/semos-react-h3/service-worker.js",
+    "static/js/2.0455bcb9.chunk.js.LICENSE": "/semos-react-h3/static/js/2.0455bcb9.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b737564.js",
+    "static/js/2.0455bcb9.chunk.js",
+    "static/js/main.40371c44.chunk.js"
+  ]
+}
